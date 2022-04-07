@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luosixing831
 - 👀 I’m interested in 信息安全
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning 中国地质大学（武汉）
+- 💞️ I’m looking to collaborate on 行行行
 - 📫 How to reach me ...
 
 <!---
